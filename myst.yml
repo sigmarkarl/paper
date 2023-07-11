@@ -1,15 +1,15 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  # title:
-  # description:
+  title: Simmi
+  description: Simmi
   keywords: []
   authors: []
   github: https://github.com/sigmarkarl/paper
   # bibliography: []
 site:
   template: book-theme
-  # title:
+  title: HEY
   # logo:
   nav: []
   actions:
