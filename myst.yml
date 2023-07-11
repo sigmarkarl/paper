@@ -1,18 +1,21 @@
-# See docs at: https://mystmd.org/guide/frontmatter
+# See docs at: https://myst-tools.org/docs/mystjs/frontmatter
 version: 1
 project:
-  title: Simmi
-  description: Simmi
-  keywords: []
-  authors: []
-  github: https://github.com/sigmarkarl/paper
+  title: "Geneset: Pan genome and synteny analysis of bacteria"
+  # description:
+  keywords: [pangenomics, microbial genomics, whole genome sequencing, bioinformatics]
+  authors: [Sigmar Stefánsson, Guðmundur Hreggviðsson]
+  github: https://github.com/sigmarkarl/notebooks
   # bibliography: []
 site:
   template: book-theme
-  title: HEY
+  # title:
   # logo:
+  projects:
+    - slug: myst
+      path: .
   nav: []
   actions:
     - title: Learn More
-      url: https://mystmd.org/guide
+      url: https://myst-tools.org/docs/mystjs
   domains: []
