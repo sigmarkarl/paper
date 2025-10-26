@@ -8,9 +8,7 @@ project:
   github: https://github.com/sigmarkarl/notebooks
   # bibliography: []
 site:
-  template: book-theme
-  # title:
-  # logo:
+  # Use default template by not specifying one
   projects:
     - slug: myst
       path: .
